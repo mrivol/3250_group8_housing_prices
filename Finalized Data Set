@@ -1,0 +1,4 @@
+Group8_Finalized Data_SJ.ipynb: https://colab.research.google.com/drive/1G28UbWB1QyA2M1XwNFADpMvdEwaNgPt6
+
+Final 16 Input Variables including 4 dummy variables for 'MSZoning' categorical variable: 
+*   GrLivArea, GarageCars, TotalBsmtSF, FullBath, YearBuilt, YearRemodAdd, MasVnrArea, Fireplaces, BsmtFinSF1, LotFrontage, WoodDeckSF, OpenPorchSF, MSZoning_C (all), MSZoning_FV, MSZoning_RH, MSZoning_RL
