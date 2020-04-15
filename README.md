@@ -215,7 +215,9 @@ I concluded that this categorical feature can be statistically significant facto
 *Average sales price of MSZoning values*: https://colab.research.google.com/drive/1G28UbWB1QyA2M1XwNFADpMvdEwaNgPt6
 
 ## Findings
-CONCLUSION
+With this exercise, we can conclude that there are some features that are more likely to impact the sales price of a house. Our findings weren’t shocking because the features we found to be highly correlated to the sales price are something that the general population is normally interested in while buying a house.
+ 
+The model we built for this project is a good start, however, we believe with further feature engineering and data imputation, we can strengthen our model. In future, several different models can be built using our data. Manipulation and analysis to understand which type of machine learning model would prove to be more efficient in determining the sales price of a house.
 
 ### Footnotes
 Clean Test Data: https://colab.research.google.com/drive/1yr7FQrEJKrui0ATbmsbvDsHJVr__RwyA
