@@ -1,0 +1,108 @@
+#Statistical Significance of comparison of means: 
+1. average sales price of C (all) and FV
+
+**Results**
+Difference	139486.000
+Standard error	17136.897
+95% CI	105332.2140 to 173639.7860
+t-statistic 	8.140
+DF 	73
+Significance level	P < 0.0001
+
+2. average sales price of C (all) and RH
+
+**Results**
+Difference	57030.000
+Standard error	14111.070
+95% CI	27906.1827 to 86153.8173
+t-statistic 	4.042
+DF 	24
+Significance level	P = 0.0005
+
+3. average sales price of C (all) and RL
+
+**Results**
+Difference	116476.000
+Standard error	25568.867
+95% CI	66309.5519 to 166642.4481
+t-statistic 	4.555
+DF 	1159
+Significance level	P < 0.0001
+
+4. average sales price of C (all) and RM
+
+**Results**
+Difference	51788.000
+Standard error	15529.919
+95% CI	21186.0426 to 82389.9574
+t-statistic 	3.335
+DF 	226
+Significance level	P = 0.0010
+
+5. average sales price of FV and RM
+
+**Results**
+Difference	-87698.000
+Standard error	6984.642
+95% CI	-101446.8628 to -73949.1372
+t-statistic 	-12.556
+DF 	281
+Significance level	P < 0.0001
+
+6. average sales price of FV and RH
+
+**Results**
+Difference	-82456.000
+Standard error	13852.973
+95% CI	-110029.6528 to -54882.3472
+t-statistic 	-5.952
+DF 	79
+Significance level	P < 0.0001
+
+7. average sales price of FV and RL
+
+**Results**
+Difference	-23010.000
+Standard error	10138.246
+95% CI	-42900.4274 to -3119.5726
+t-statistic 	-2.270
+DF 	1214
+Significance level	P = 0.0234
+
+8. average sales price of RH and RL
+
+**Results**
+Difference	59446.000
+Standard error	20225.787
+95% CI	19762.9592 to 99129.0408
+t-statistic 	2.939
+DF 	1165
+Significance level	P = 0.0034
+
+9. average sales price of RH and RM
+
+**Results**
+Difference	-5242.000
+Standard error	12379.949
+95% CI	-29633.4941 to 19149.4941
+t-statistic 	-0.423
+DF 	232
+Significance level	P = 0.6724
+
+10. average sales price of RL and RM
+
+**Results**
+Difference	-64688.000
+Standard error	5655.038
+95% CI	-75781.4937 to -53594.5063
+t-statistic 	-11.439
+DF 	1367
+Significance level	P < 0.0001
+
+**Conclusion**
+As p-values are less than 0.05 in the calculations except the comparison of average sales price between RH and RM, 
+I concluded that this categorical feature can be statistically significant factor to predict sales price. 
+ 
+*comparison of means calculator*: https://www.medcalc.org/calc/comparison_of_means.php
+*Average sales price of MSZoning values*: https://colab.research.google.com/drive/1G28UbWB1QyA2M1XwNFADpMvdEwaNgPt6
+
