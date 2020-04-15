@@ -214,6 +214,9 @@ I concluded that this categorical feature can be statistically significant facto
 *comparison of means calculator*: https://www.medcalc.org/calc/comparison_of_means.php
 *Average sales price of MSZoning values*: https://colab.research.google.com/drive/1G28UbWB1QyA2M1XwNFADpMvdEwaNgPt6
 
+## Findings
+CONCLUSION
+
 ### Footnotes
 Clean Test Data: https://colab.research.google.com/drive/1yr7FQrEJKrui0ATbmsbvDsHJVr__RwyA
 
