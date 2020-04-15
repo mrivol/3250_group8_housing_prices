@@ -206,3 +206,13 @@ I concluded that this categorical feature can be statistically significant facto
  
 *comparison of means calculator*: https://www.medcalc.org/calc/comparison_of_means.php
 *Average sales price of MSZoning values*: https://colab.research.google.com/drive/1G28UbWB1QyA2M1XwNFADpMvdEwaNgPt6
+
+### Footnotes
+Clean Test Data: https://colab.research.google.com/drive/1yr7FQrEJKrui0ATbmsbvDsHJVr__RwyA
+
+Group8_Finalized Data_SJ.ipynb: https://colab.research.google.com/drive/1G28UbWB1QyA2M1XwNFADpMvdEwaNgPt6
+
+Final 16 Input Variables including 4 dummy variables for 'MSZoning' categorical variable: 
+*   GrLivArea, GarageCars, TotalBsmtSF, FullBath, YearBuilt, YearRemodAdd, MasVnrArea, Fireplaces, BsmtFinSF1, LotFrontage, WoodDeckSF, OpenPorchSF, MSZoning_C (all), MSZoning_FV, MSZoning_RH, MSZoning_RL
+
+Variable Cleaning: https://colab.research.google.com/drive/1bMWYf3pe3dx6Kcj4pY-Q8GOfO9b8_Kbm 
