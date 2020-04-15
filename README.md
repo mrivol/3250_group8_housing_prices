@@ -8,6 +8,13 @@ This project seeks to analyze a dataset of 80 variables over 1000+ homes to unde
 
 **Project Goal:** Using a given dataset of home sale prices and 80 descriptive features of each home, predict the value of other homes given similar characteristics.
 
+## Group Members
+ - Matthias Rivollier
+ - Sora Jang
+ - Krishna Nuthi
+ - Pragya Vaid
+ - Roya Sani
+
 ## Data
 
 A dataset originating from Kaggle is used in this excercise. It can be found [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). The data is already split into train and test populations. More information on the features found within the dataset is available here:
